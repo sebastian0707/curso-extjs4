@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "nome": 'Sebatian',
+    "sobrenome": 'Mendez',
+    "telefones": [
+        {
+            "id": 13,
+            "ddd": "45",
+            "numero": "98816-5454",
+        },
+        {
+            "id": 11,
+            "ddd": "48",
+            "numero": "98816-3849",
+        }
+    ],
+    "endereco": {
+        "ddd": 14,
+        "logradouro": "rua cardoso",
+        "numero": "466",
+        "complemento": "apt13"
+    }
+
+}
